@@ -37,7 +37,7 @@ Doc Master enhances Claude's ability to analyze, understand, and synthesize info
 Clone this repository and place it in your Claude skills directory:
 
 ```bash
-git clone https://github.com/cookiesen77-rgb/doc-master.git ~/.claude/skills/doc-master
+git clone https://github.com/cookiesen77-rgb/claude-doc-master.git ~/.claude/skills/doc-master
 ```
 
 ### Usage Examples
@@ -189,7 +189,7 @@ Doc Master 增强了 Claude 分析、理解和综合来自不同文档源信息�
 克隆此仓库并放置到 Claude 技能目录：
 
 ```bash
-git clone https://github.com/cookiesen77-rgb/doc-master.git ~/.claude/skills/doc-master
+git clone https://github.com/cookiesen77-rgb/claude-doc-master.git ~/.claude/skills/doc-master
 ```
 
 ### 使用示例
